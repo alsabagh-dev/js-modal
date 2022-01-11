@@ -215,9 +215,9 @@ Modal
   background: rgba(73, 166, 233, 0.5);
   display: grid;
   place-items: center;
-  transition: var(--transition);
   visibility: hidden;
   z-index: -10;
+  transition: all 0.3s ;
 }
 /* OPEN/CLOSE MODAL */
 .open-modal {
